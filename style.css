@@ -200,6 +200,7 @@ h1 {
     flex-direction: column;
     padding: 1rem;
     overflow: hidden;
+    height: 100vh; /* Set height to 100vh */
 }
 
 .question-box {
